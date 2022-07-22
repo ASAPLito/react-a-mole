@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 import MoleContainer from './MoleContainer'
 import Mole from './Mole'
 import EmptySlot from './EmptySlot'
